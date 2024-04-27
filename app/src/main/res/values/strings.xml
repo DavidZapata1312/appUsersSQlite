@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sistema de Usuarios</string>
+    <string name="registertitle">Registro de Usuarios</string>
+    <string name="user">Usuario</string>
+</resources>
